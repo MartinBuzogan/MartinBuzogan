@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 I'm a full-time **QA Engineer** at [bart.sk](https://www.bart.sk) and a Software Engineering graduate (Ing.) from TUKE Košice.<br>
-I like breaking things on purpose, so users don't break them by accident.
+I'm breaking things on purpose, so users don't break them by accident.
 
 #### Projects
 
